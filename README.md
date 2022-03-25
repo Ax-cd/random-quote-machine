@@ -22,7 +22,7 @@ This is the first project for the Front End Development Librairies Certification
 
 ## Screenshot
 
-![](./src/desktop-design.jpg)
+![](./src/desktop-design.jpeg)
 
 ## Links
 
