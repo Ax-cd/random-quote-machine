@@ -22,7 +22,7 @@ This is the first project for the Front End Development Librairies Certification
 
 ## Screenshot
 
-![](src/desktop-design.jpg)
+![](./src/desktop-design.jpg)
 
 ## Links
 
@@ -31,8 +31,8 @@ This is the first project for the Front End Development Librairies Certification
 
 ## Credits and resources
 
-- The API I used in the project : [Ebazhanov / quotes.json] (https://gist.github.com/Ebazhanov/c391d558be432e54dc0f78783879ee84)
+- The API I used in the project : [Ebazhanov / quotes.json](https://gist.github.com/Ebazhanov/c391d558be432e54dc0f78783879ee84)
 
-- [Bootstrap Documentation] (https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+- [Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
-- How to deploy the app on GitHub Page : [Create React App - Docs - Deployement] (https://create-react-app.dev/docs/deployment/#github-pages) and ["How to Deploy a Routed React App to GitHub Pages" by Tomer Ben Rachel]  (https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
+- How to deploy the app on GitHub Page : [Create React App - Docs - Deployement](https://create-react-app.dev/docs/deployment/#github-pages) and ["How to Deploy a Routed React App to GitHub Pages" by Tomer Ben Rachel](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
