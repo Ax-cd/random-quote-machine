@@ -111,7 +111,7 @@ export default class QuoteMachine extends Component {
 
   render() {
     return (
-      <div id="quote-box" className="card-body w-auto mx-auto">
+      <main id="quote-box" className="card-body w-auto mx-auto">
         <blockquote className="p-2">
           <p id="text" className="blockquote text-center">
             <i className="fa fa-quote-left"></i>
@@ -140,7 +140,7 @@ export default class QuoteMachine extends Component {
             New Quote
           </button>
         </footer>
-      </div>
+      </main>
     );
   } //end of render
 }
